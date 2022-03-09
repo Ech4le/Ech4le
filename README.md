@@ -1,7 +1,7 @@
 👋 Hi, I’m @Ech4le. I'm robotics student.
 - 👀 I’m interested in everything with flashing LEDs.
 - 🌱 I’m currently learning PROXMOX, Docker Swarm, Python and React, atm I'm setting up my home lab (proud name for 2 PI's and old notebook).
-- 📫 How to reach me: hmmm....
+- 📫 How to reach me: k.nawara98@gmail.com
 
 <!---
 Ech4le/Ech4le is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
